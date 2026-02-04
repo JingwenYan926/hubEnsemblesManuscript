@@ -8,11 +8,10 @@
 
 This repository contains the data and code for our paper:
 
-> Li Shandross, Emily Howerton, Lucie Contamin, Harry Hochheiser, Anna
-> Krystalli, Consortium of Infectious Disease Modeling Hubs, Nicholas G.
-> Reich, Evan L. Ray (in prep). *Multi-model ensembles in infectious
-> disease and public health: Methods, interpretation, and implementation
-> in R*. <https://doi.org/10.1101/2024.06.24.24309416v2>
+> L. Shandross, E. Howerton, L. Contamin, et al., “Multi-Model Ensembles
+> in Infectious Disease and Public Health: Methods, Interpretation, and
+> Implementation in R,” *Statistics in Medicine* 45, no. 1-2 (2026):
+> e70333, <https://doi.org/10.1002/sim.70333>.
 
 ### How to cite
 
